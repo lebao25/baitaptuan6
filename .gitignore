@@ -1,0 +1,23 @@
+﻿# Logs
+*.log
+logs/
+lb_api_log.txt
+
+# Backups
+*.bak
+*.bak*
+
+# File nhay cam
+*cookie*.txt
+.env
+
+# Scripts
+git_push.bat
+git_push.ps1
+git_push.sh
+
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
